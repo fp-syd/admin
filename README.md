@@ -24,8 +24,12 @@
 * Dates for 2020 are as follows:
   * Saturday February 1st
   * Saturday April 4th
+    * Easter is on April 10th -- 13th
+    * LambdaJam is on May 6th -- 8th
   * Saturday June 6th
+    * This is the Queen's birthday long weekend.
   * Saturday August 1st
+    * ICFP is on August 23rd -- 28th
   * Saturday October 3rd
   * Saturdey December 5th
 
