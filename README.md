@@ -16,10 +16,11 @@
 * Anyone who is interested is welcome to come along.
 * We spend about half the time on presentations, and half on hacking and free-form discussion.
   * Doors open 10am, talks begin 10:30am. We'll go to the pub about 5pm.
-* Everyone that comes along must give at least a short 10 minute talk, though we can also schedule longer presentations.
-  * Everyone talks, no exceptions.
-  * If you don't know what to talk about then read a recent paper from ICFP, Haskell Symposium, Scheme workshop, IFL or similar event and give a summary. You could also check out a new interesting library and give a short review. It doesn't need to be main-line functional programming. We also like other areas of computer science.
-  * If this is your first time attending then it's fine to just give a short overview of who you are, what you're working on, and what you're interested in.
+* All attendees give at least a 10 minute talk, though we can also schedule longer presentations.
+  * Everyone talks. No exceptions.
+  * The talk could be about something you're working on, something you've already done, something you learned about, a idea you had, anything.
+  * If you don't know what to talk about then read a recent paper from ICFP, Haskell Symposium, Scheme workshop, IFL or a similar event and give a summary. You could also learn about a new library and give a short review. It doesn't need to be main line functional programming. We also like other areas of computer science.
+  * If this is your first time attending then it's fine to just give a short overview of who you are, what you're working on, and what you're interested in. You don't need slides, but it usually helps to show examples of what you've done.
   * RSVP to the thread in the Slack channel with your talk title and expected length. We'll sort out the schedule a few days before, depending on the number of attendees and talk lengths.
 * Dates for 2020 are as follows:
   * Saturday February 1st
