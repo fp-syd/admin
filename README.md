@@ -24,10 +24,10 @@
   * RSVP to the thread in the Slack channel with your talk title and expected length. We'll sort out the schedule a few days before, depending on the number of attendees and talk lengths.
 * Dates for 2020 are as follows:
   * Saturday February 1st
-  * Saturday April 4th (skipped due to expected Coronavirus office shutdown)
+  * Saturday April 4th (skipped due to covid shutdown)
     * Easter is on April 10th -- 13th
     * LambdaJam is on May 6th -- 8th
-  * Saturday June 6th
+  * Saturday June 6th (skipped due to covid shutdown)
     * This is the Queen's birthday long weekend.
   * Saturday August 1st
     * ICFP is on August 23rd -- 28th
